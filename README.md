@@ -5,4 +5,4 @@
 + if only one exposure time was available, at least we know how to scale it
 + I selected 3 lines, one from the blue, medium and red range
 + The reddest line (right column) is always the most affected when the lamp is failing or has been replaced.
-+ the position of the lines is not a fit but adjusted manually, the one with the highest flux
++ the position of the lines is not a fit but adjusted manually, at the pixels with the highest flux
